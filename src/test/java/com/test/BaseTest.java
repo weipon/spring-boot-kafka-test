@@ -1,4 +1,4 @@
-package com.cassandra.test;
+package com.test;
 
 
 import org.junit.After;
