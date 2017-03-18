@@ -14,7 +14,7 @@ public class RepositoryTest extends BaseTest {
 
     @Autowired
     private KafkaTemplate<Integer, String> kafkaTemplate;
-    /**---dev/test-1-**/
+
     @Test
     public void Test() {
 
