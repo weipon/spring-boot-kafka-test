@@ -18,7 +18,7 @@ public class RepositoryTest extends BaseTest {
     @Test
     public void Test() {
 
-
+        kafkaTemplate.equals("a");
     }
 
 
