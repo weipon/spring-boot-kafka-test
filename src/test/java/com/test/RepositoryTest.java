@@ -17,7 +17,7 @@ public class RepositoryTest extends BaseTest {
     /**---dev/test-1.1.1-**/
     @Test
     public void Test() {
-        System.out.print("dev-test-1");
+        System.out.print("dev-test-1-1-1-1");
 
     }
 
